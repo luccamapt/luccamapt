@@ -8,8 +8,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=luccamapt&label=Visitors&color=7F3FBF&style=flat" alt="Profile visitor" />
 </a>
 
-
-<!-- [![wakatime](https://wakatime.com/badge/user/018dc7d5-53ae-4ced-9c88-915ed10c913c.svg)](https://wakatime.com/@018dc7d5-53ae-4ced-9c88-915ed10c913c) -->
+ [![wakatime](https://wakatime.com/badge/user/018dc7d5-53ae-4ced-9c88-915ed10c913c.svg)](https://wakatime.com/@018dc7d5-53ae-4ced-9c88-915ed10c913c&color=7F3FBF&style=flat)
 
 <!-- Intro  -->
 <h3 align="center">
